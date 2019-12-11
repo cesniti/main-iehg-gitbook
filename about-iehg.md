@@ -1,0 +1,10 @@
+---
+description: IENC main
+---
+
+# About IEHG
+
+The Inland ENC Harmonization Group \(IEHG\) was formed in 2003 by North America and Europe to facilitate the development of international standards for Inland ENC data. Russia has joined the IEHG soon after that and Brazil in 2007, China in 2009, South Korea in 2010, Venezuela and Peru in 2011. The IEHG is comprised of representatives from government, industry and academia. European participants take part on behalf of the European Inland ECDIS Expert Group. The North American participants are members of the North American Inland ENC Ad Hoc working group that was formed in 2002. The IEHG meets normally once per year. However, most of the work is accomplished via e-mail correspondence. There is an e-mail based discussion forum: [https://iehg.centralus.cloudapp.azure.com/login](https://iehg.centralus.cloudapp.azure.com/login). Each new discussion has to be assigned to one of three topics: general discussions on Inland ENCs, formal Change Requests or discussions on the development of the future S-100 based version of the standard. Every new contribution is distributed by e-mail to all registered users \(please register yourself directly at the discussion forum\). The e-mail contains a link to the contribution on the discussion forum, where attached files can be downloaded and where comments can be submitted.
+
+The goal of the IEHG is to agree upon specifications for Inland ENCs that are suitable for all known inland ENC data requirements for safe and efficient navigation for European, North and South American, Asian and Russian Federation inland waterways. However, it is intended that this standard meet the basic needs for Inland ENC applications, worldwide. As such, the Inland ENC standard is flexible enough to accommodate additional inland waterway requirements in other regions of the world. IEHG is recognized as a Non-Governmental International Organization \(NGIO\) by the [International Hydrographic Organization \(IHO\)](http://iho.int/srv1/index.php?lang=en).
+
