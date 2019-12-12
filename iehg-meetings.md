@@ -8,6 +8,14 @@ description: IENC main
 
 {% file src=".gitbook/assets/iehg\_xv\_minutes.pdf" caption="Meeting minutes 2019" %}
 
+{% file src=".gitbook/assets/main-presentation-and-status-reports-of-regions-2019.zip" caption="Status reports of regions 2019" %}
+
+{% file src=".gitbook/assets/presentations\_companies.zip" caption="Presentations of companies 2019" %}
+
+{% file src=".gitbook/assets/other-topics.zip" caption="Presentations on other topics 2019" %}
+
+{% file src=".gitbook/assets/documents\_2019.zip" caption="Documents 2019" %}
+
 {% file src=".gitbook/assets/s\_401.zip" caption="Draft documents S-401, 2019" %}
 
 ### 14. IEHG meeting, Niteroi, 2017
