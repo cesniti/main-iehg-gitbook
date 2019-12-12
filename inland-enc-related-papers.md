@@ -41,11 +41,10 @@ The following Excel sheet is providing an overview of the minimum content of Inl
 
 All private papers which concern InlandECDIS or the production of IENCs can be published here. Please contact [iehg](mailto:iehg-owner@openecdis.org) if you want to have a paper published.
 
-Recommendations of the European project IRIS II \(Implementation of River Information Services\) regarding the accuracy of depth data in Inland ENCs and the update intervals for depth data:
+* Recommendations of the European project IRIS II \(Implementation of River Information Services\) regarding the accuracy of depth data in Inland ENCs and the update intervals for depth data:
 
 {% file src=".gitbook/assets/accuracy\_update\_requirements\_depth\_data\_v1p0\_final \(1\).pdf" caption="Accuracy and update requirements" %}
 
-* Recommendations of the European project IRIS II \(Implementation of River Information Services\) regarding the accuracy of depth data in Inland ENCs and the update intervals for depth data [Report](http://ienc.openecdis.org/files/Accuracy_and_Update_Requirements_Depth_Data_IRIS_II_v1p0.pdf) \(pdf, 218 KB\)
-* * [Evaluation and recommendations regarding the use of SCAMIN and Usages in Inland ENCs](http://ienc.openecdis.org/files/Evaluation_IENC_Usages_RWS.pdf) \(pdf, 7 MB\)
+* [Evaluation and recommendations regarding the use of SCAMIN and Usages in Inland ENCs](http://ienc.openecdis.org/files/Evaluation_IENC_Usages_RWS.pdf) \(pdf, 7 MB\)
 * Ivica Ruzic and Jadranka Pecar-Ilic from the Rudjer Boskovic Institute in Zagreb, Croatia [Proposal for extension of CEVNI](http://ienc.openecdis.org/files/Proposal_for_extension_of_CEVNI.zip)
 
