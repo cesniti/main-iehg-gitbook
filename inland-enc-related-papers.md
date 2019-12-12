@@ -1,6 +1,6 @@
 # Inland ENC related Papers
 
-
+#### Referenced official papers
 
 All official papers which are mentioned as references in the Encoding Guide and Feature Catalogue are published at following web-pages:
 
@@ -10,6 +10,8 @@ All official papers which are mentioned as references in the Encoding Guide and 
 
 {% file src=".gitbook/assets/norman17.zip" caption="NORMAN-17" %}
 
+#### Standardized water level exchange format
+
 The IEHG has agreed upon a standardized data exchange format for detailed water level information that can be used by applications to display the actual water depth or for voyage planning. A precondition is the encoding of the depth in accordance with I.1.2 of the Encoding Guide for Inland ENCs:
 
 {% file src=".gitbook/assets/standardized\_waterlevel\_files\_v03 \(1\).pdf" caption="Description of the standardized water level exchange format" %}
@@ -17,6 +19,10 @@ The IEHG has agreed upon a standardized data exchange format for detailed water 
 {% file src=".gitbook/assets/waterlevel\_v1\_0.zip" caption="XML schema of the standardized water level exchange format" %}
 
 IEHG has also developed "Recommended validation checks for Inland ENCs".
+
+Recommended validation checks for Inland ENCs 1.1 \(based on S-58 Edition 4.2 and Edition 2.1 of Inland ENCs\)
+
+{% file src=".gitbook/assets/recommended\_inland\_enc\_validation\_checks\_1\_1.pdf" caption="Recommended validation checks 1.1" %}
 
 [Recommended validation checks for Inland ENCs 1.1 \(based on S-58 Edition 4.2 and Edition 2.1 of Inland ENCs\)](http://ienc.openecdis.org/files/Recommended_Inland_ENC_validation_checks_1_1.pdf)  
  2013-04-22 \(pdf, 540 kB\)
