@@ -10,7 +10,7 @@ All official papers which are mentioned as references in the Encoding Guide and 
 
 {% file src=".gitbook/assets/norman17.zip" caption="NORMAN-17" %}
 
-#### Standardized water level exchange format
+### Standardized water level exchange format
 
 The IEHG has agreed upon a standardized data exchange format for detailed water level information that can be used by applications to display the actual water depth or for voyage planning. A precondition is the encoding of the depth in accordance with I.1.2 of the Encoding Guide for Inland ENCs:
 
@@ -18,18 +18,17 @@ The IEHG has agreed upon a standardized data exchange format for detailed water 
 
 {% file src=".gitbook/assets/waterlevel\_v1\_0.zip" caption="XML schema of the standardized water level exchange format" %}
 
-IEHG has also developed "Recommended validation checks for Inland ENCs".
+### Recommended validation checks for Inland ENCs
+
+IEHG has also developed "Recommended validation checks for Inland ENCs". The following editions are available:
 
 Recommended validation checks for Inland ENCs 1.1 \(based on S-58 Edition 4.2 and Edition 2.1 of Inland ENCs\)
 
 {% file src=".gitbook/assets/recommended\_inland\_enc\_validation\_checks\_1\_1.pdf" caption="Recommended validation checks 1.1" %}
 
-[Recommended validation checks for Inland ENCs 1.1 \(based on S-58 Edition 4.2 and Edition 2.1 of Inland ENCs\)](http://ienc.openecdis.org/files/Recommended_Inland_ENC_validation_checks_1_1.pdf)  
- 2013-04-22 \(pdf, 540 kB\)
+Recommended validation checks for Inland ENCs 2.3 corr1 \(based on S-58 Edition 4.2 and Edition 2.3 of inland ENCs\)
 
-[Recommended validation checks for Inland ENCs 2.3 corr1 \(based on S-58 Edition 4.2 and Edition 2.3 of inland ENCs\)](http://ienc.openecdis.org/files/Recommended_Inland_ENC_validation_checks_2_3corr1.pdf)  
- 2013-10-16 \(pdf, 964 kB\)  
-  
+{% file src=".gitbook/assets/recommended\_inland\_enc\_validation\_checks\_2\_3corr1.pdf" caption="Recommended validation checks 2.3 corr 1" %}
 
 [Preliminary Version of the Recommended validation checks for Inland ENCs 2.4 \(based on S-58 Edition 4.2 and Edition 2.4 of Inland ENCs\). This Version will get official Status after implementation.](http://ienc.openecdis.org/files/Recommended%20Inland%20ENC%20validation%20checks_2_4_0.doc)  
  2015-11-05 \(doc, 2.7 MB\)
