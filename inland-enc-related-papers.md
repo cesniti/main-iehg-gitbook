@@ -39,7 +39,7 @@ IEHG has also developed "Recommended validation checks for Inland ENCs". The fol
 
 ### Other papers
 
-All private papers which concern InlandECDIS or the production of IENCs can be published here. Please contact [iehg](mailto:iehg-owner@openecdis.org) if you want to have a paper published.
+All private papers which concern InlandECDIS or the production of IENCs can be published here. Please submit the proposed document via the [discussion forum](https://iehg.centralus.cloudapp.azure.com/login) under "General discussions".
 
 * Recommendations of the European project IRIS II \(Implementation of River Information Services\) regarding the accuracy of depth data in Inland ENCs and the update intervals for depth data:
 
