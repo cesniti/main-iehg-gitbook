@@ -49,7 +49,3 @@ All private papers which concern InlandECDIS or the production of IENCs can be p
 
 {% file src=".gitbook/assets/evaluation-ienc-usages-rws.pdf" caption="SCAMIN and usages in IENCs" %}
 
-
-
-* Ivica Ruzic and Jadranka Pecar-Ilic from the Rudjer Boskovic Institute in Zagreb, Croatia [Proposal for extension of CEVNI](http://ienc.openecdis.org/files/Proposal_for_extension_of_CEVNI.zip)
-
