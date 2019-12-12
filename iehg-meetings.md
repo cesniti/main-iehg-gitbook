@@ -4,6 +4,10 @@ description: IENC main
 
 # IEHG meetings
 
+### 14. IEHG meeting, Niteroi, 2017
+
+{% file src=".gitbook/assets/iehg\_xiv\_minutes.pdf" caption="Meeting minutes 2017" %}
+
 ### 13. IEHG meeting, Nanjing, 2015
 
 {% file src=".gitbook/assets/iehg\_xiii-\_minutes.pdf" caption="Meeting minutes 2015" %}
