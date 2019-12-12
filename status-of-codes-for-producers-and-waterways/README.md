@@ -9,12 +9,9 @@ Codes for producers of Inland ENCs as well as the registration procedure are tho
 
 The recommended Codes for Waterways for use in the file name of IENCs can be found in the following document:
 
-{% file src=".gitbook/assets/codes\_for\_waterways.pdf" caption="Status of codes for waterways" %}
+{% page-ref page="status-of-waterway-codes.md" %}
 
-| Waterway Code | Waterway Name | Remark |
-| :--- | :--- | :--- |
-| AC | Albertkanaal/Canal Albert |  |
-|  |  |  |
+
 
 
 

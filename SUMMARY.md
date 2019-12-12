@@ -7,6 +7,6 @@
 * [Change Requests](change-requests.md)
 * [IEHG meetings](iehg-meetings.md)
 * [Links](links.md)
-* [Status of codes for producers and waterways](status-of-codes-for-producers-and-waterways.md)
-* [Status of waterway codes](status-of-waterway-codes.md)
+* [Status of codes for producers and waterways](status-of-codes-for-producers-and-waterways/README.md)
+  * [Status of waterway codes](status-of-codes-for-producers-and-waterways/status-of-waterway-codes.md)
 
