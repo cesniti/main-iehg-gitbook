@@ -1,6 +1,6 @@
 # Inland ENC related Papers
 
-#### Referenced official papers
+### Referenced official papers
 
 All official papers which are mentioned as references in the Encoding Guide and Feature Catalogue are published at following web-pages:
 
