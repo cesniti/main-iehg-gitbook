@@ -1,5 +1,5 @@
 ---
-description: Links page of IENC main space
+description: IENC main
 ---
 
 # Links
@@ -57,7 +57,7 @@ description: Links page of IENC main space
 
 [Port of Basel, Switzerland](http://www.portofbasel.ch/index.php?sprache=d&nav=15)
 
-[Sava Commission](http://www.savacommission.org/publication) t.b.a.
+[Sava Commission](http://www.savacommission.org/publication)
 
 [Diretoria de Hidrografia e Navegação - Marinha do Brasil](http://www.dhn.mar.mil.br/)
 
