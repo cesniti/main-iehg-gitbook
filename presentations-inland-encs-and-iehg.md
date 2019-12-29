@@ -1,7 +1,3 @@
----
-description: IENC main
----
-
 # Presentations: Inland ENCs and IEHG
 
 The Inland ENC Harmonization Group \(IEHG\) provides a presentation about:

@@ -1,7 +1,3 @@
----
-description: IENC main
----
-
 # IEHG meetings
 
 ### 15. IEHG meeting, New Orleans, 2019

@@ -1,7 +1,3 @@
----
-description: IENC main
----
-
 # Initial page
 
 ### Welcome to the Inland ECDIS page of the Open ECDIS Forum!
