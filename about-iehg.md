@@ -24,11 +24,13 @@ In September 2005, the Ministry of Transport of the Russian Federation became a 
 
 IEHG also works closely with the [International Hydrographic Organization \(IHO\)](http://iho.int/srv1/index.php?lang=en). At the ECDIS stakeholders’ forum in 2007, IHO confirmed that compatibility with Inland ENC standards is allowed by the standards that are certified for maritime ECDIS applications. On 14 April 2009, IEHG became recognized as a Non-Governmental International Organization \(NGIO\) of IHO. In addition, at the 4th Extraordinary International Hydrographic Conference on 4 June 2009, IHO adopted a resolution to cooperate with the IEHG.
 
-As an NGIO, IEHG supports, advises and provides input to IHO regarding Inland ENC matters. **Inland Electronic Navigational Chart Defined**
+As an NGIO, IEHG supports, advises and provides input to IHO regarding Inland ENC matters. 
+
+### **Definition of IENC \(Inland Electronic Navigational Chart\)**
 
 Inland Electronic Navigational Chart \(IENC\) means: the database, standardized as to content, structure and format, for use with inland electronic chart display and / or information systems operated onboard of vessels transiting inland waterways. An IENC is issued by or on the authority of a competent government agency, and conforms to standards \[initially\] developed by the International Hydrographic Organization \(IHO\) and \[refined by\] the Inland ENC Harmonization Group. An IENC contains all the chart information necessary for safe navigation on inland waterways and may contain supplementary information in addition to that contained in the paper chart \(e.g. sailing directions, machine-readable operating schedules, etc.\) which may be considered necessary for safe navigation and voyage planning.
 
-**IENC Standards**
+### **IENC Standards**
 
 The framework for Inland ENC standards includes:
 
@@ -43,16 +45,16 @@ The framework for Inland ENC standards includes:
 6. Use of the **ienc.openecdis.org** as a means of communication.
 7. Align with the **IHO S-100** Universal Hydrographic Data Model. In particular, this includes the Inland ENC domain as part of the overall S-100 Geospatial Information Registry.
 
-The current versions of IENC-related standards are published at http://ienc.openecdis.org.
+The current versions of IENC-related standards are published at [http://ienc.openecdis.org](https://ienc.gitbook.io/ienc-editions/).
 
 Two other Inland IENC-related standards that are not maintained by IEHG, but are used in Europe include:
 
 1. Inland ECDIS Standard
 2. IENC Presentation Library
 
-Copies of all IENC-related standards available at: [http://ienc.openecdis.org/](http://ienc.openecdis.org/).
+Copies of all IENC-related standards available at: [http://ienc.openecdis.org/](https://ienc.gitbook.io/ienc-editions/).
 
-**IENC Encoding Guide**
+### **IENC Encoding Guide**
 
 The IENC Encoding Guide provides detailed guidance on what is required to produce a consistent, uniform Inland ENC.
 
@@ -64,7 +66,7 @@ For all object classes, attributes, and attribute values that are used in conjun
 4. Gives specific encoding examples
 5. Provides real-world and graphic examples of IENC information \(portrayal\)
 
-Minimum Contents of an IENC
+### Minimum Contents of an IENC
 
 At a **Minimum**, the following objects shall be included in an IENC, if they exist:
 
@@ -79,15 +81,5 @@ At a **Minimum**, the following objects shall be included in an IENC, if they ex
 7. Official Aids-to-Navigation \(e.g. buoys, beacons, lights, notice marks\)
 8. Waterway axis with kilometres/hectometres
 
-In addition to these minimum requirements, the Encoding Guide contains **recommended** objects, attributes and attribute values that are suitable for any Inland ENC application, worldwide. Each country or region can decide which of these recommended objects, attributes and attribute values are necessary to meet their requirements. For example, in Europe and the USA, there are different requirements for River Information Services \(RIS\). \(See diagram below for reference.\)
-
-When the competent authorities in Europe define the “navigable water” for their individual waterways they should take into account water areas which can be used at mean water level by vessels with a hull length of 20m or more that are typically used on these waterways. Water areas on which navigation is prohibited are not “navigable water”. If an object which is minimum content when it is situated in navigable water is situated outside of the navigable water, it is recommended to encode it.
-
-|  |
-| :--- |
-
-
-**Changes to the IENC Encoding Guide**
-
-The IENC Encoding Guide is a living document that can be modified, as needed, to accommodate future Inland ENC requirements and development, worldwide. The procedures are defined in the Terms of Reference of the Inland ENC Harmonization Group.
+In addition to these minimum requirements, the Encoding Guide contains **recommended** objects, attributes and attribute values that are suitable for any Inland ENC application, worldwide. Each country or region can decide which of these recommended objects, attributes and attribute values are necessary to meet their requirements. For example, in Europe and the USA, there are different requirements for River Information Services \(RIS\).
 
