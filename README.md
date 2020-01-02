@@ -9,7 +9,8 @@ description: Welcome to the Inland ECDIS page of the Open ECDIS Forum!
     <tr>
       <th style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="https://ienc.gitbook.io/ienc/"><b>IENC main Website</b></a>&lt;b&gt;&lt;/b&gt;</th>
       <th
-      style="text-align:center">IENC Standards</th>
+      style="text-align:center"><a href="https://ienc.gitbook.io/ienc-editions/">IENC Standards</a>
+        </th>
     </tr>
   </thead>
   <tbody>
