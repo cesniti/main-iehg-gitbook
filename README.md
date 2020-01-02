@@ -1,6 +1,12 @@
-# Initial page
+---
+description: Welcome to the Inland ECDIS page of the Open ECDIS Forum!
+---
 
-### Welcome to the Inland ECDIS page of the Open ECDIS Forum!
+# Welcome
+
+| **IENC main Website** | IENC Standards |
+| :---: | :---: |
+| ![](.gitbook/assets/iehg_main.png)[ ](https://ienc.gitbook.io/ienc/) | ![](.gitbook/assets/iehg_standards.png)[ ](https://ienc.gitbook.io/ienc-editions/) |
 
 ![](http://ienc.openecdis.org/images/iehg.gif)
 
