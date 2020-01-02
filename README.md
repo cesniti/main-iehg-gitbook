@@ -4,9 +4,9 @@ description: Welcome to the Inland ECDIS page of the Open ECDIS Forum!
 
 # Welcome
 
-| **IENC main Website** | IENC Standards |
+| \*\*\*\*[**IENC main Website**](https://ienc.gitbook.io/ienc/)\*\*\*\* | IENC Standards |
 | :---: | :---: |
-| ![](.gitbook/assets/iehg_main.png)[ ](https://ienc.gitbook.io/ienc/) | ![](.gitbook/assets/iehg_standards.png)[ ](https://ienc.gitbook.io/ienc-editions/) |
+| ![](.gitbook/assets/iehg_main.png)[ ](https://ienc.gitbook.io/ienc/) | ![](.gitbook/assets/iehg_standards.png)  |
 
 ![](http://ienc.openecdis.org/images/iehg.gif)
 
