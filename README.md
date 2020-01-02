@@ -4,26 +4,26 @@ description: Welcome to the Inland ECDIS page of the Open ECDIS Forum!
 
 # Welcome
 
+
+
+| \*\*\*\*[**IENC main Website**](https://ienc.gitbook.io/ienc/)\*\*\*\* |
+| :---: |
+| [![](.gitbook/assets/iehg_main.png) ](https://ienc.gitbook.io/ienc/) |
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">&lt;b&gt;&lt;/b&gt;<a href="https://ienc.gitbook.io/ienc/"><b>IENC main Website</b></a>&lt;b&gt;&lt;/b&gt;</th>
-      <th
-      style="text-align:center"><a href="https://ienc.gitbook.io/ienc-editions/">IENC Standards</a>
-        </th>
+      <th style="text-align:center"><a href="https://ienc.gitbook.io/ienc-editions/">IENC Standards</a>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:center">
-        <img src=".gitbook/assets/iehg_main.png" alt/><a href="https://ienc.gitbook.io/ienc/"> </a><a href="https://ienc.gitbook.io/ienc/">https://ienc.gitbook.io/ienc/</a>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src=".gitbook/assets/iehg_standards.png" alt/>
+        <p><a href="https://ienc.gitbook.io/ienc-editions/"><img src=".gitbook/assets/iehg_standards.png" alt/></a>
         </p>
-        <p><a href="https://ienc.gitbook.io/ienc-editions/">https://ienc.gitbook.io/ienc-editions/</a> 
-        </p>
+        <p></p>
+        <p></p>
       </td>
     </tr>
   </tbody>
