@@ -6,11 +6,11 @@ description: Welcome to the Inland ECDIS page of the Open ECDIS Forum!
 
 |  |
 | :---: |
-|   |
+| ![](.gitbook/assets/icon_editions.png)  |
 
 | \*\*\*\*[**IENC main Website**](https://ienc.gitbook.io/ienc/)\*\*\*\* |
 | :---: |
-|  [![](.gitbook/assets/iehg_main.png) ](https://ienc.gitbook.io/ienc/) |
+| [![](.gitbook/assets/iehg_main.png) ](https://ienc.gitbook.io/ienc/) |
 
 <table>
   <thead>
