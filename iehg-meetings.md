@@ -1,22 +1,12 @@
 # IEHG meetings
 
-### 14. IEHG meeting, Niteroi, 2017
-
 ### 15. IEHG meeting, New Orleans, 2019
-
-### 13. IEHG meeting, Nanjing, 2015
-
-{% file src=".gitbook/assets/iehg\_xv\_minutes.pdf" caption="Meeting minutes 2019" %}
-
-{% file src=".gitbook/assets/iehg\_xiii-\_minutes.pdf" caption="Meeting minutes 2015" %}
-
-{% file src=".gitbook/assets/main-presentation-and-status-reports-of-regions-2019.zip" caption="Status reports of regions 2019" %}
-
-{% file src=".gitbook/assets/iehg\_xiii\_presentations.zip" caption="Documents 2015" %}
 
 {% file src=".gitbook/assets/presentations\_companies.zip" caption="Presentations of companies 2019" %}
 
-{% file src=".gitbook/assets/iehg\_xiii\_s\_401 \(1\).zip" caption="Draft documents S-401" %}
+{% file src=".gitbook/assets/iehg\_xv\_minutes.pdf" caption="Meeting minutes 2019" %}
+
+{% file src=".gitbook/assets/main-presentation-and-status-reports-of-regions-2019.zip" caption="Status reports of regions 2019" %}
 
 {% file src=".gitbook/assets/other-topics.zip" caption="Presentations on other topics 2019" %}
 
@@ -45,6 +35,10 @@
 {% file src=".gitbook/assets/iehg\_xiii\_documents.zip" caption="Documents 2015" %}
 
 {% file src=".gitbook/assets/iehg\_xiii\_s\_401.zip" caption="Draft documents S-401, 2015" %}
+
+{% file src=".gitbook/assets/iehg\_xiii\_presentations.zip" caption="Documents 2015" %}
+
+{% file src=".gitbook/assets/iehg\_xiii\_s\_401 \(1\).zip" caption="Draft documents S-401" %}
 
 ### 12. IEHG meeting, Berlin, 2014
 
