@@ -43,7 +43,7 @@
 
 [PannonRIS page of RSOE, Hungary](http://www.pannonris.hu/)
 
-[RIS Server of the Netherlands](http://www.risserver.nl/)
+[RIS Server of the Netherlands](https://vaarweginformatie.nl/frp/main/#/page/infra_enc)
 
 [RIS server, Poland](http://szczecin.uzs.gov.pl/itc3l_pobierz_mapy.htm)
 
