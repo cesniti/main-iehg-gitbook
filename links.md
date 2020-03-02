@@ -29,7 +29,7 @@
 
 [Ministry of Transport, Innovation and Technology, Austria](http://www.doris.bmvit.gv.at/en/maps-charts/inland-encs/)
 
-[Flemish RIS-portal, Belgium](http://ris.vlaanderen.be/html_nl/vaarkaarten/index.html)
+[Flemish RIS-portal, Belgium](https://www.visuris.be/Vaarkaarten)
 
 [Voi Navigable de France \(VNF\), France](http://www.vnf.fr/ecdis/ecdis.html)
 
