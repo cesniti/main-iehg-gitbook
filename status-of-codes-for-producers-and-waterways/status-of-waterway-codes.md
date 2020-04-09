@@ -47,16 +47,6 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
-      <td style="text-align:left">BH</td>
-      <td style="text-align:left">Kanaal Bocholt - Herentals</td>
-      <td style="text-align:left">---</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">BK</td>
-      <td style="text-align:left">Boudewijn Kanaal</td>
-      <td style="text-align:left">---</td>
-    </tr>
-    <tr>
       <td style="text-align:left">BLO</td>
       <td style="text-align:left">Branche de La Louvi&#xE8;re</td>
       <td style="text-align:left">---</td>
@@ -73,7 +63,7 @@
     </tr>
     <tr>
       <td style="text-align:left">BN</td>
-      <td style="text-align:left">Kanaal Briegden - Neerharen</td>
+      <td style="text-align:left">Kanaal Briegden-Neerharen</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
@@ -100,13 +90,8 @@
       <td style="text-align:left">including Westhafenkanal and Charlottenburger Verbindungskanal</td>
     </tr>
     <tr>
-      <td style="text-align:left">BZ</td>
-      <td style="text-align:left">Beneden Zeeschelde</td>
-      <td style="text-align:left">---</td>
-    </tr>
-    <tr>
       <td style="text-align:left">CCB</td>
-      <td style="text-align:left">Canal Charleroi-Bruxelles</td>
+      <td style="text-align:left">Canal Charleroi-Bruxelles/Kanaal Brussel-Charleroi</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
@@ -160,6 +145,11 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
+      <td style="text-align:left">DDT</td>
+      <td style="text-align:left">Dijledoortocht</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
       <td style="text-align:left">DE</td>
       <td style="text-align:left">Dortmund-Ems Kanal</td>
       <td style="text-align:left">---</td>
@@ -175,23 +165,13 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
-      <td style="text-align:left">DDT</td>
-      <td style="text-align:left">Dijledoortocht</td>
-      <td style="text-align:left">---</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">DKW</td>
-      <td style="text-align:left">Kanaal Dessel - Kwaadmechelen</td>
-      <td style="text-align:left">---</td>
-    </tr>
-    <tr>
       <td style="text-align:left">DR</td>
       <td style="text-align:left">Drava</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
       <td style="text-align:left">DTS</td>
-      <td style="text-align:left">Kanaal Dessel - Turnhout - Schoten</td>
+      <td style="text-align:left">Kanaal Dessel-Turnhout-Schoten</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
@@ -270,6 +250,11 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
+      <td style="text-align:left">GL</td>
+      <td style="text-align:left">Grensleie</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
       <td style="text-align:left">GPE</td>
       <td style="text-align:left">Grand Large de P&#xE9;ronnes</td>
       <td style="text-align:left">---</td>
@@ -303,8 +288,28 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
+      <td style="text-align:left">KBH</td>
+      <td style="text-align:left">Kanaal Bocholt-Herentals</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
       <td style="text-align:left">KBK</td>
-      <td style="text-align:left">Kanaal Bossuit - Kortrijk</td>
+      <td style="text-align:left">Kanaal Bossuit-Kortrijk</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">KBN</td>
+      <td style="text-align:left">Kanaal Briegden-Neerharen</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">KBZ</td>
+      <td style="text-align:left">Kanaal Brugge-Zeebrugge</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">KDK</td>
+      <td style="text-align:left">Kanaal Dessel-Kwaadmechelen</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
@@ -324,22 +329,22 @@
     </tr>
     <tr>
       <td style="text-align:left">KLD</td>
-      <td style="text-align:left">Kanaal Leuven - Dijle</td>
+      <td style="text-align:left">Kanaal Leuven-Dijle</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
       <td style="text-align:left">KND</td>
-      <td style="text-align:left">Kanaal Nieuwpoort - Duinkerken</td>
+      <td style="text-align:left">Kanaal Nieuwpoort -Duinkerken</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
       <td style="text-align:left">KPN</td>
-      <td style="text-align:left">Kanaal Plassendale- Nieuwpoort</td>
+      <td style="text-align:left">Kanaal Plassendale-Nieuwpoort</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
       <td style="text-align:left">KRL</td>
-      <td style="text-align:left">Kanaal Roeselare - Leie</td>
+      <td style="text-align:left">Kanaal Roeselare-Leie</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
@@ -364,7 +369,7 @@
     </tr>
     <tr>
       <td style="text-align:left">LR</td>
-      <td style="text-align:left">Leie/Lys River</td>
+      <td style="text-align:left">Leie/Lys</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
@@ -565,11 +570,6 @@
     <tr>
       <td style="text-align:left">SL</td>
       <td style="text-align:left">Saale</td>
-      <td style="text-align:left">---</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">SM</td>
-      <td style="text-align:left">Smeermaas</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
