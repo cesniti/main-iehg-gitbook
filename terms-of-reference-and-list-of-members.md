@@ -4,7 +4,9 @@
 
 According to the Terms of Reference the list of members is containing the Core Group, Members and Participants.
 
-{% file src=".gitbook/assets/iehg\_members.pdf" caption="IEHG members" %}
+
+
+{% file src=".gitbook/assets/iehg\_members \(1\).pdf" caption="IEHG members" %}
 
 
 
