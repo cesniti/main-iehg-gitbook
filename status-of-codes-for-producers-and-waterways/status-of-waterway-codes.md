@@ -648,6 +648,11 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
+      <td style="text-align:left">WR</td>
+      <td style="text-align:left">Warta River</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
       <td style="text-align:left">ZBS</td>
       <td style="text-align:left">Zeekanaal Brussel-Schelde</td>
       <td style="text-align:left">---</td>
