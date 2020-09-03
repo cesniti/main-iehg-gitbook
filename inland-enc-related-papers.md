@@ -30,8 +30,9 @@ IEHG has also developed "Recommended validation checks for Inland ENCs". The fol
 
 {% file src=".gitbook/assets/recommended\_inland\_enc\_validation\_checks\_2\_3corr1.pdf" caption="Recommended validation checks 2.3 corr 1" %}
 
-[Preliminary Version of the Recommended validation checks for Inland ENCs 2.4 \(based on S-58 Edition 4.2 and Edition 2.4 of Inland ENCs\). This Version will get official Status after implementation.](http://ienc.openecdis.org/files/Recommended%20Inland%20ENC%20validation%20checks_2_4_0.doc)  
- 2015-11-05 \(doc, 2.7 MB\)
+* Draft of the Recommended Validation checks for Inland ENCs 2.4 rev1 \(based on S-58 Edition 6.0.0 and Edition 2.4 of Inland ENCs\). This version will get an official status after testing
+
+{% file src=".gitbook/assets/2020-01-22\_recommended-inland-enc-validation-checks\_2\_4\_rev1.pdf" caption="Recommended validation checks 2.4 rev1" %}
 
 * The following Excel sheet is providing an overview of the minimum content of Inland ENCs. It has been the basis for version 2.3.5 of the Encoding Guide.
 
