@@ -273,6 +273,11 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
+      <td style="text-align:left">HOH</td>
+      <td style="text-align:left">Hohenauer Wasserstra&#xDF;e</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
       <td style="text-align:left">HVK</td>
       <td style="text-align:left">Havelkanal</td>
       <td style="text-align:left">---</td>
