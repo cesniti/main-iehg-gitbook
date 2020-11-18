@@ -31,7 +31,7 @@
 
 [Flemish RIS-portal, Belgium](https://www.visuris.be/Vaarkaarten)
 
-[Voi Navigable de France \(VNF\), France](http://www.vnf.fr/ecdis/ecdis.html)
+[Voies Navigables de France \(VNF\), France](http://www.vnf.fr/ecdis/ecdis.html)
 
 [Executive Agency for Exploration and Maintenance of the Danube River, Bulgaria](http://www.appd-bg.org/)
 
@@ -52,8 +52,6 @@
 [Plovput, Serbia](http://www.plovput.rs/)
 
 [Port of Basel, Switzerland](http://www.portofbasel.ch/index.php?sprache=d&nav=15)
-
-[Sava Commission](http://www.savacommission.org/publication)
 
 [Diretoria de Hidrografia e Navegação - Marinha do Brasil](http://www.dhn.mar.mil.br/)
 
