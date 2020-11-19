@@ -2,9 +2,9 @@
 
 ## **Overview availability of Inland ENCs**
 
-{% file src=".gitbook/assets/ienc\_prod\_overview \(7\).pdf" %}
+{% file src=".gitbook/assets/ienc\_prod\_overview \(8\).pdf" caption="IENC production overview" %}
 
-\(Last update: 2020-11-03\)
+\(Last update: 2020-11-19\)
 
 ## **Links to international organizations, that are dealing with Inland ENCs:**
 
