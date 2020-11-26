@@ -13,6 +13,8 @@
 [Economic Commission for Europe of the United Nations \(UN/ECE\) \(Resolution No. 48 on Inland ECDIS, edition 2.4\)](http://www.unece.org/fileadmin/DAM/trans/doc/2016/sc3wp3/ECE-TRANS-SC3-156-Rev3e.pdf)  
 [Annexes and Appendices](http://www.unece.org/fileadmin/DAM/trans/doc/finaldocs/sc3/Resolution_48_appendices_for_rev3.zip)
 
+[Comité Européen pour l’Élaboration de Standards dans le Domaine de Navigation Intérieure – CESNI](https://ris.cesni.eu/)
+
 [Central Commission for Navigation on the Rhine \(CCNR\) \(Go to Documents for downloading, River Information Services, Inland ECDIS Standard for edition 2.3\)](http://ccr-zkr.org/files/documents/ris/ies23_e.pdf), [Leaflet](http://ccr-zkr.org/files/documents/ris/leafecdis2011_e.pdf)
 
 [Danube Commission \(DC\) \(Recommends to use the Resolution No. 48 of UNECE\)](http://www.danubecommission.org/)
