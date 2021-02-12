@@ -6,7 +6,5 @@ According to the Terms of Reference the list of members is containing the Core G
 
 
 
-{% file src=".gitbook/assets/iehg\_members \(1\).pdf" caption="IEHG members" %}
-
-
+{% file src=".gitbook/assets/iehg\_members \(2\).pdf" caption="IEHG members" %}
 
