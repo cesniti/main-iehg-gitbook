@@ -18,9 +18,11 @@ The general content \(about IEHG and Inland ENCs, meeting minutes, presentations
 
 You can access to all ECDIS standard editions on the Inland ECDIS [Standard documentation](https://ienc.gitbook.io/ienc-editions/) \(Inland ECDIS Standard Editions in the top menu\).
 
-The [discussion forum of IEHG](https://iehg.centralus.cloudapp.azure.com/login) is used as a sharing portal for the members, following the link you can sign up and follow the discussions or submit a change request \(IEHG discussion forum in the top menu\).
+The [discussion forum of IEHG](https://partners.usace.army.mil/sites/LRL/IHG/default.aspx) is used as a sharing portal for the members. Following the link you can sign in and follow the discussions or submit a change request \(IEHG discussion forum in the top menu\).
 
+If you aren't a registered user you will find instructions how to get access to the discussion forum in the following document:
 
+{% file src=".gitbook/assets/sharepoint\_discussion\_forum\_access.pdf" caption="How to get access to the discussion forum" %}
 
 
 
