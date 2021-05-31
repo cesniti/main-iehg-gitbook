@@ -1,6 +1,6 @@
 # Change Requests
 
-According to the Terms of Reference every participant of IEHG is entitled to transmit proposals for amendments of the standard together with an explanation via the [IEHG discussion forum](https://iehg.centralus.cloudapp.azure.com/login). The following form has to be used to submit a change request:
+According to the Terms of Reference every participant of IEHG is entitled to transmit proposals for amendments of the standard together with an explanation via the [IEHG discussion forum](https://partners.usace.army.mil/sites/LRL/IHG/default.aspx). The following form has to be used to submit a change request:
 
 {% file src=".gitbook/assets/cr\_iehg\_nr-xxx\_x\_y\_y\_vy\_jjjj\_0.docx" caption="Change Request form" %}
 
