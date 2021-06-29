@@ -29,7 +29,7 @@
 
 [U.S. Army Corps of Engineers](http://www.agc.army.mil/Missions/Echarts.aspx)
 
-[Ministry of Transport, Innovation and Technology, Austria](http://www.doris.bmvit.gv.at/en/maps-charts/inland-encs/)
+[Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology, Austria](https://www.bmk.gv.at)
 
 [Flemish RIS-portal, Belgium](https://www.visuris.be/Vaarkaarten)
 
@@ -39,9 +39,9 @@
 
 [Inland Navigation Development Center CRUP, Croatia](http://www.crup.hr/index.php?page=encdownload)
 
-[Labe and Vltava traffic information system, Czech Republic](http://www.lavdis.cz/index.php?pg=46&ln=cz)
+[Labe and Vltava traffic information system, Czech Republic](https://geoportal.plavebniurad.cz/web/NavigationMap/InlandECDIS_en)
 
-[ELWIS page of the German waterway authorities](https://www.elwis.de/Service/Inland-ENC-der-WSV/IENC-Dateien/index.php.html)
+[ELWIS page of the German waterway authorities](https://www.elwis.de/DE/Service/Inland-ENC-der-WSV/Inland-ENC-der-WSV-node.html)
 
 [PannonRIS page of RSOE, Hungary](http://www.pannonris.hu/)
 
@@ -59,29 +59,31 @@
 
 ## **Links to private companies, that are dealing with Inland Navigation Software:**
 
-[Innovative Navigation](http://www.innovative-navigation.de/in_htm/index_gb.htm)
+[Argonav](https://www.radarpilot.de/)
+
+[Innovative Navigation](https://www.innovative-navigation.de/)
 
 [Periskal Group](http://www.periskal.com/)
 
-[Tresco Engineering](https://www.tresco.eu/)
+[Rose Point Navigation Systems](http://rosepointecs.com/)
 
 [SevenCs](https://www.sevencs.com/)
 
-[Rose Point Navigation Systems](http://rosepointecs.com/)
-
 [Transas Technologies](http://www.transas.com/products/vts/vessel-traffic-management-solutions/monitor_harbour/river_information_system/)
 
-## **Links to private companies, that are dealing with IENC Production Software:**
+[Tresco Engineering](https://www.tresco.eu/)
 
-[SevenCs](https://www.sevencs.com/products/enc-production-tools/)
+## **Links to private companies, that are dealing with IENC Production Software:**
 
 [Caris](http://www.caris.com/)
 
 [esri](http://www.esri.com/software/arcgis/extensions/maritime/charting)
 
+[SevenCs](https://www.sevencs.com/products/enc-production-tools/)
+
 ## **Free IENC Viewing Software:**
 
 [SeeMyENC](https://www.sevencs.com/products/software-downloads/)
 
-[Easy View](http://www.caris.com/)
+[Easy View](http://www.teledynecaris.com/en/products/easy-view/)
 
