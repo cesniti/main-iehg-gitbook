@@ -27,7 +27,7 @@
 
 ## **Links to national organizations, that are dealing with Inland ENCs:**
 
-[U.S. Army Corps of Engineers](http://www.agc.army.mil/Missions/Echarts.aspx)
+[U.S. Army Corps of Engineers](https://ienccloud.us/)
 
 [Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology, Austria](https://www.bmk.gv.at)
 
