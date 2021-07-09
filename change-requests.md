@@ -8,3 +8,7 @@ According to the Terms of Reference every participant of IEHG is entitled to tra
 
 A list of all change requests and the next available change request number can be found at [https://docs.google.com/spreadsheets/d/1darzMTlkqN4nDWOetW\_6vCuqbGukEvN\_9XYohwB\_QLE/edit\#gid=839558529?](https://docs.google.com/spreadsheets/d/1darzMTlkqN4nDWOetW_6vCuqbGukEvN_9XYohwB_QLE/edit#gid=839558529?) 
 
+If you aren't a registered user you will find instructions how to get access to the discussion forum in the following document:
+
+{% file src=".gitbook/assets/sharepoint\_discussion\_forum\_access.pdf" caption="How to get access to the discussion forum" %}
+
