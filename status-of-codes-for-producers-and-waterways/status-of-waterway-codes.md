@@ -558,6 +558,11 @@
       <td style="text-align:left">---</td>
     </tr>
     <tr>
+      <td style="text-align:left">SKG</td>
+      <td style="text-align:left">Storkower Gew&#xE4;sser</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
       <td style="text-align:left">SKH</td>
       <td style="text-align:left">Stichkanal Mittelland-Kanal - Hildesheim</td>
       <td style="text-align:left">---</td>
@@ -615,6 +620,11 @@
     <tr>
       <td style="text-align:left">TLE</td>
       <td style="text-align:left">Toeristische Leie (Leie)</td>
+      <td style="text-align:left">---</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">TPG</td>
+      <td style="text-align:left">Teupitzer Gew&#xE4;sser</td>
       <td style="text-align:left">---</td>
     </tr>
     <tr>
