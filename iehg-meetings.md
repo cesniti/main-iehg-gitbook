@@ -1,5 +1,9 @@
 # IEHG meetings
 
+### 16. IEHG meeting, Hasselt and online, 2021
+
+{% file src=".gitbook/assets/2021\_hasselt.zip" caption="Documents 2021 \(status 2021-09-29\)" %}
+
 ### 15. IEHG meeting, New Orleans, 2019
 
 {% file src=".gitbook/assets/presentations\_companies.zip" caption="Presentations of companies 2019" %}
