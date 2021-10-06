@@ -2,7 +2,7 @@
 
 ### 16. IEHG meeting, Hasselt and online, 2021
 
-{% file src=".gitbook/assets/2021\_hasselt \(5\).zip" caption="Documents 2021, last update from 2021-10-06" %}
+{% file src=".gitbook/assets/2021\_hasselt.zip" caption="Documents 2021, last update from 2021-10-06" %}
 
 ### 15. IEHG meeting, New Orleans, 2019
 
