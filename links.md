@@ -2,80 +2,82 @@
 
 ## **Overview availability of Inland ENCs**
 
-{% file src=".gitbook/assets/ienc\_prod\_overview\_20210913.pdf" caption="IENC production overview" %}
+{% file src=".gitbook/assets/IENC_Prod_overview_20211216.pdf" %}
+IENC production overview
+{% endfile %}
 
-\(Last update: 2021-09-13\)
+(Last update: 2021-12-16)
 
 ## **Links to international organizations, that are dealing with Inland ENCs:**
 
-[European Commission \(EC\) \(Commission Implementing Regulation \(EU\) 2018/1973\)](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1545226716926&uri=CELEX:32018R1973)
+[European Commission (EC) (Commission Implementing Regulation (EU) 2018/1973)](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1545226716926\&uri=CELEX:32018R1973)
 
-[Economic Commission for Europe of the United Nations \(UN/ECE\) \(Resolution No. 48 on Inland ECDIS, edition 2.4\)](http://www.unece.org/fileadmin/DAM/trans/doc/2016/sc3wp3/ECE-TRANS-SC3-156-Rev3e.pdf)  
-[Annexes and Appendices](http://www.unece.org/fileadmin/DAM/trans/doc/finaldocs/sc3/Resolution_48_appendices_for_rev3.zip)
+[Economic Commission for Europe of the United Nations (UN/ECE) (Resolution No. 48 on Inland ECDIS, edition 2.4)](http://www.unece.org/fileadmin/DAM/trans/doc/2016/sc3wp3/ECE-TRANS-SC3-156-Rev3e.pdf)\
+[Annexes and Appendices](http://www.unece.org/fileadmin/DAM/trans/doc/finaldocs/sc3/Resolution\_48\_appendices\_for\_rev3.zip)
 
-[Comité Européen pour l’Élaboration de Standards dans le Domaine de Navigation Intérieure – CESNI](https://ris.cesni.eu/)
+[Comité Européen pour l’Élaboration de Standards dans le Domaine de Navigation Intérieure – CESNI](https://ris.cesni.eu)
 
-[Central Commission for Navigation on the Rhine \(CCNR\) \(Go to Documents for downloading, River Information Services, Inland ECDIS Standard for edition 2.3\)](http://ccr-zkr.org/files/documents/ris/ies23_e.pdf), [Leaflet](http://ccr-zkr.org/files/documents/ris/leafecdis2011_e.pdf)
+[Central Commission for Navigation on the Rhine (CCNR) (Go to Documents for downloading, River Information Services, Inland ECDIS Standard for edition 2.3)](http://ccr-zkr.org/files/documents/ris/ies23\_e.pdf), [Leaflet](http://ccr-zkr.org/files/documents/ris/leafecdis2011\_e.pdf)
 
-[Danube Commission \(DC\) \(Recommends to use the Resolution No. 48 of UNECE\)](http://www.danubecommission.org/)
+[Danube Commission (DC) (Recommends to use the Resolution No. 48 of UNECE)](http://www.danubecommission.org)
 
-[International Sava River Basin Commission](http://www.savacommission.org/)
+[International Sava River Basin Commission](http://www.savacommission.org)
 
-[International Hydrographic Organisation \(IHO\) \(Standards for maritime ECDIS, that are the basis for Inland ECDIS\)](http://www.iho.int/)
+[International Hydrographic Organisation (IHO) (Standards for maritime ECDIS, that are the basis for Inland ECDIS)](http://www.iho.int)
 
-[S-100 registry](http://registry.iho.int/)
+[S-100 registry](http://registry.iho.int)
 
 ## **Links to national organizations, that are dealing with Inland ENCs:**
 
-[U.S. Army Corps of Engineers](https://ienccloud.us/)
+[U.S. Army Corps of Engineers](https://ienccloud.us)
 
 [Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology, Austria](https://www.bmk.gv.at)
 
 [Flemish RIS-portal, Belgium](https://www.visuris.be/Vaarkaarten)
 
-[Voies Navigables de France \(VNF\), France](http://www.vnf.fr/ecdis/ecdis.html)
+[Voies Navigables de France (VNF), France](http://www.vnf.fr/ecdis/ecdis.html)
 
-[Executive Agency for Exploration and Maintenance of the Danube River, Bulgaria](http://www.appd-bg.org/)
+[Executive Agency for Exploration and Maintenance of the Danube River, Bulgaria](http://www.appd-bg.org)
 
 [Inland Navigation Development Center CRUP, Croatia](http://www.crup.hr/index.php?page=encdownload)
 
-[Labe and Vltava traffic information system, Czech Republic](https://geoportal.plavebniurad.cz/web/NavigationMap/InlandECDIS_en)
+[Labe and Vltava traffic information system, Czech Republic](https://geoportal.plavebniurad.cz/web/NavigationMap/InlandECDIS\_en)
 
 [ELWIS page of the German waterway authorities](https://www.elwis.de/DE/Service/Inland-ENC-der-WSV/Inland-ENC-der-WSV-node.html)
 
-[PannonRIS page of RSOE, Hungary](http://www.pannonris.hu/)
+[PannonRIS page of RSOE, Hungary](http://www.pannonris.hu)
 
-[RIS Server of the Netherlands](https://vaarweginformatie.nl/frp/main/#/page/infra_enc)
+[RIS Server of the Netherlands](https://vaarweginformatie.nl/frp/main/#/page/infra\_enc)
 
-[RIS server, Poland](http://szczecin.uzs.gov.pl/itc3l_pobierz_mapy.htm)
+[RIS server, Poland](http://szczecin.uzs.gov.pl/itc3l\_pobierz\_mapy.htm)
 
 [Administration of the Lower Danube, Romania](http://afdj.ro/en/content/inland-enc)
 
-[Plovput, Serbia](http://www.plovput.rs/)
+[Plovput, Serbia](http://www.plovput.rs)
 
-[Port of Basel, Switzerland](http://www.portofbasel.ch/index.php?sprache=d&nav=15)
+[Port of Basel, Switzerland](http://www.portofbasel.ch/index.php?sprache=d\&nav=15)
 
-[Diretoria de Hidrografia e Navegação - Marinha do Brasil](http://www.dhn.mar.mil.br/)
+[Diretoria de Hidrografia e Navegação - Marinha do Brasil](http://www.dhn.mar.mil.br)
 
 ## **Links to private companies, that are dealing with Inland Navigation Software:**
 
-[Argonav](https://www.radarpilot.de/)
+[Argonav](https://www.radarpilot.de)
 
-[Innovative Navigation](https://www.innovative-navigation.de/)
+[Innovative Navigation](https://www.innovative-navigation.de)
 
-[Periskal Group](http://www.periskal.com/)
+[Periskal Group](http://www.periskal.com)
 
-[Rose Point Navigation Systems](http://rosepointecs.com/)
+[Rose Point Navigation Systems](http://rosepointecs.com)
 
-[SevenCs](https://www.sevencs.com/)
+[SevenCs](https://www.sevencs.com)
 
-[Transas Technologies](http://www.transas.com/products/vts/vessel-traffic-management-solutions/monitor_harbour/river_information_system/)
+[Transas Technologies](http://www.transas.com/products/vts/vessel-traffic-management-solutions/monitor\_harbour/river\_information\_system/)
 
-[Tresco Engineering](https://www.tresco.eu/)
+[Tresco Engineering](https://www.tresco.eu)
 
 ## **Links to private companies, that are dealing with IENC Production Software:**
 
-[Caris](http://www.caris.com/)
+[Caris](http://www.caris.com)
 
 [esri](http://www.esri.com/software/arcgis/extensions/maritime/charting)
 
@@ -86,4 +88,3 @@
 [SeeMyENC](https://www.sevencs.com/products/software-downloads/)
 
 [Easy View](http://www.teledynecaris.com/en/products/easy-view/)
-
