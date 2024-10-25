@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 2 sp1 (http://www.altova.com) by Christoph Plasil (via donau - Österreichische) -->
+<!-- Mit XMLSpy v2013 (x64) (http://www.altova.com) von Gertraud Widder (BMVIT) bearbeitet -->
+<!-- edited with XMLSpy v2011 rel. 2 sp1 (http://www.altova.com) by Jonathan Gallagher (via donau) -->
+<!-- added new enumeration TOperationMode with Visual Code by Gert Morlion (De Vlaamse Waterweg) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.openecdis.org/facility/2.6" targetNamespace="http://www.openecdis.org/facility/2.6" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<!-- COPYRIGHT -->
+	<xs:annotation>
+		<xs:documentation>Copyright 2024 IEHG</xs:documentation>
+	</xs:annotation>
+	<!-- ROOT ELEMENT FACILITY -->
+	<xs:element name="facility">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="version" type="xs:positiveInteger" minOccurs="0"/>
+				<xs:element name="last_edited" type="xs:string" minOccurs="0"/>
+				<xs:element name="id" minOccurs="0">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:maxLength value="50"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="name" minOccurs="0">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:maxLength value="50"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="type" type="TFacilityType" minOccurs="0"/>
+				<xs:element name="image" minOccurs="0">
+					<xs:simpleType>
+						<xs:restriction base="xs:anyURI">
+							<xs:maxLength value="250"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="description" minOccurs="0">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:maxLength value="1000"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="operator" minOccurs="0">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:maxLength value="50"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<xs:element name="owner" minOccurs="0">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:maxLength value="50"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<!-- COMMUNICATION INFORMATION -->
+				<xs:element name="communication_information" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="address" type="TAddress" minOccurs="0"/>
+							<xs:element name="contact" type="TContact" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element name="radio_communication" type="TRadioCommunication" minOccurs="0"/>
+							<xs:element name="remark" type="TRemark" minOccurs="0" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="timezonename" minOccurs="0">
+					<xs:simpleType>
+						<xs:restriction base="xs:string">
+							<xs:maxLength value="40"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+				<!-- TIME SCHEDULE -->
+				<xs:element name="time_schedule" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="type" minOccurs="0">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Operation"/>
+										<xs:enumeration value="No Operation"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="valid" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="from" type="xs:date"/>
+										<xs:element name="to" type="xs:date"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="individual_schedule" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="day" type="TDay" maxOccurs="unbounded"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="regular_schedule" minOccurs="0">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="period" type="TPeriod" maxOccurs="unbounded"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="remark" type="TRemark" minOccurs="0" maxOccurs="unbounded"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<!-- GROUPS ============================================ -->
+	<xs:group name="telecommunication">
+		<xs:choice>
+			<xs:element name="phone">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="mobile">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="fax">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="email">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="250"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="url">
+				<xs:simpleType>
+					<xs:restriction base="xs:anyURI">
+						<xs:maxLength value="250"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:choice>
+	</xs:group>
+	<!-- TYPES ========================================= -->
+	<xs:simpleType name="TFacilityType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Lock"/>
+			<xs:enumeration value="Bridge"/>
+			<xs:enumeration value="Port Facility"/>
+			<xs:enumeration value="Navigation Authority"/>
+			<xs:enumeration value="Port Authority"/>
+			<xs:enumeration value="Other Authority"/>
+			<xs:enumeration value="Water Police"/>
+			<xs:enumeration value="Berth"/>
+			<xs:enumeration value="Bunker Station"/>
+			<xs:enumeration value="Waste Reception"/>
+			<xs:enumeration value="Cargo Terminal"/>
+			<xs:enumeration value="Passenger Terminal"/>
+			<xs:enumeration value="Navigation Surveillance"/>
+			<xs:enumeration value="Waterway Authority"/>
+			<xs:enumeration value="RIS Provider"/>
+			<xs:enumeration value="Environmental Agency"/>
+			<xs:enumeration value="Customs"/>
+			<xs:enumeration value="Safety Inspection"/>
+			<xs:enumeration value="Harbour"/>
+			<xs:enumeration value="Vessel Traffic Center"/>
+			<xs:enumeration value="Hydrometeo Center"/>
+			<xs:enumeration value="Ship Lift"/>
+			<xs:enumeration value="Other"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="TAddress">
+		<xs:sequence>
+			<xs:element name="street" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="postcode" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="20"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="city" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="state" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="country" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="TContact">
+		<xs:sequence>
+			<xs:element name="company" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="name" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:group ref="telecommunication" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="remark" type="TRemark" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="TRadioCommunication">
+		<xs:sequence>
+			<xs:element name="calling_name" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="call_sign" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="channel" type="xs:positiveInteger" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="TTimeFrame">
+		<xs:sequence>
+			<xs:annotation>
+				<xs:documentation>The endtime 00:00:00 refers to the end of the day. A timeframe with starttime 00:00:00 and endtime 00:00:00 translates to a 24 hour period or the whole day and is similar to the notation 00:00:00 to 24:00:00</xs:documentation>
+			</xs:annotation>
+			<xs:element name="start" type="xs:time"/>
+			<xs:element name="end" type="xs:time"/>
+			<xs:element name="remark" type="TRemark" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="target_group" type="TTargetGroup" minOccurs="0" maxOccurs="unbounded">
+				<xs:annotation>
+					<xs:documentation>Target group information</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+            <xs:element name="mode" type="TOperationMode" minOccurs="0" maxOccurs="1"/> 
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:simpleType name="TOperationMode"> 
+   		<xs:restriction base="xs:string"> 
+			<xs:enumeration value="NoOperation"/> 
+			<xs:enumeration value="NormalOperation"/> 
+			<xs:enumeration value="SelfService"/> 
+			<xs:enumeration value="OnRequest"/> 
+			<xs:enumeration value="Curfew"/> 
+			<xs:enumeration value="OnRequestInAdvance"/>        
+			<xs:enumeration value="ContinouslyOpen"/> 
+   		</xs:restriction> 
+	</xs:simpleType> 
+
+
+	<xs:simpleType name="TDays">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Monday"/>
+			<xs:enumeration value="Tuesday"/>
+			<xs:enumeration value="Wednesday"/>
+			<xs:enumeration value="Thursday"/>
+			<xs:enumeration value="Friday"/>
+			<xs:enumeration value="Saturday"/>
+			<xs:enumeration value="Sunday"/>
+			<xs:enumeration value="Public_Holidays"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="TListDays">
+		<xs:list itemType="TDays"/>
+	</xs:simpleType>
+	<xs:complexType name="TPeriod">
+		<xs:sequence>
+			<xs:element name="from" type="xs:date"/>
+			<xs:element name="to" type="xs:date"/>
+			<xs:element name="days_with_common_schedule" maxOccurs="unbounded">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="name_of_days" type="TListDays"/>
+						<xs:element name="time_frame" type="TTimeFrame" maxOccurs="unbounded"/>
+						<xs:element name="remark" type="TRemark" minOccurs="0" maxOccurs="unbounded"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="TDay">
+		<xs:sequence>
+			<xs:element name="date" type="xs:date"/>
+			<xs:element name="time_frame" type="TTimeFrame" maxOccurs="unbounded"/>
+			<!-- CR 400 -->
+			<xs:element name="remark" type="TRemark" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="TRemark">
+		<xs:simpleContent>
+			<xs:extension base="RemarkLength">
+				<xs:attribute name="language" type="LanguageLength"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	<xs:simpleType name="RemarkLength">
+		<xs:restriction base="xs:string">
+			<xs:maxLength value="1000"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="LanguageLength">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="2"/>
+			<xs:maxLength value="2"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="TTargetGroup">
+		<xs:sequence>
+			<xs:element name="target_group_code" type="TTargetGroupCode" default="all vessels">
+				<xs:annotation>
+					<xs:documentation>Target group (vessel type)</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="direction_code" type="TDirectionCode" default="all directions">
+				<xs:annotation>
+					<xs:documentation>Upstream or downstream traffic, or both</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="TTargetGroupCode">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="all vessels"/>
+			<xs:enumeration value="commercial vessels"/>
+			<xs:enumeration value="passenger vessels"/>
+			<xs:enumeration value="pleasure crafts"/>
+			<xs:enumeration value="small crafts"/>
+			<xs:enumeration value="convoys"/>
+			<xs:enumeration value="pushed convoys"/>
+			<xs:enumeration value="convoys with dangerous goods"/>
+			<xs:enumeration value="vessels with dangerous goods"/>
+			<xs:enumeration value="motorized vessels"/>
+			<xs:enumeration value="non-motorized vessels"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="TDirectionCode">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="all directions"/>
+			<xs:enumeration value="upstream"/>
+			<xs:enumeration value="downstream"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>
