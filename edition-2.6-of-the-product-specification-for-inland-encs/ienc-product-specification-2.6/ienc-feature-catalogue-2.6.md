@@ -16,11 +16,13 @@ The Inland ENC Feature Catalogue has been adopted by the Inland ENC Harmonizatio
 
 Edition 2.6 has been adopted by IEHG on 15th October 2024.
 
+A typing error in the first version of the XML has been corrected in corr1.&#x20;
+
 {% file src="../../.gitbook/assets/IENC_FC_26.pdf" %}
 Inland ENC Feature Catalogue Ed 2.6 (PDF)
 {% endfile %}
 
-{% file src="../../.gitbook/assets/IENC_FC_26.xml" %}
-Inland ENC Feature Catalogue Ed 2.6 (XML)
+{% file src="../../.gitbook/assets/IENC_FC_26_corr1.xml" %}
+Inland ENC Feature Catalogue Ed 2.6 corr1 (XML)
 {% endfile %}
 
