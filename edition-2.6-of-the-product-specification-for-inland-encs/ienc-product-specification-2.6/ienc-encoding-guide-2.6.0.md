@@ -6,9 +6,11 @@ For all object classes, attributes, and attribute values that are used in conjun
 
 The Inland ENC Encoding Guide is applicable in North and South America, Russia and Europe. It is intended, that the IENC Encoding Guide meets the basic needs for Inland ENC applications worldwide.
 
-Version 2.6.0 has been adopted by IEHG on 15th October 2024.
+Version 2.6.0 has been adopted by IEHG on 15th October 2024. In 2025 errors have been detected and corrected in version 2.6.1 from 13th November 2025.
 
 {% file src="../../.gitbook/assets/Inland ENC Encoding Guide - Edition 2.6.0.pdf" %}
+
+{% file src="../../.gitbook/assets/Inland ENC Encoding Guide - Edition 2.6.1.pdf" %}
 
 The annex of the Encoding Guide is containing the description of a standardized machine readable facility file for the provision of contact information and operating hours of infrastructure.
 
@@ -16,4 +18,4 @@ The annex of the Encoding Guide is containing the description of a standardized 
 XSD of the external facility files Ed 2.6
 {% endfile %}
 
-An XML editor for the production of the external xml-files that are mentioned in the Encoding Guide is available at [facility\_editor](http://ienc.openecdis.org/facility\_editor/) The username and password can be obtained by e-mail from ienc(a)viadonau.org Please note that the editor uses at the moment edition 2.0 of the XSD which belonged to edition 2.4 of the Product Specification for Inland ENCs.
+An XML editor for the production of the external xml-files that are mentioned in the Encoding Guide is available at [facility\_editor](http://ienc.openecdis.org/facility_editor/) The username and password can be obtained by e-mail from ienc(a)viadonau.org Please note that the editor uses at the moment edition 2.0 of the XSD which belonged to edition 2.4 of the Product Specification for Inland ENCs.
