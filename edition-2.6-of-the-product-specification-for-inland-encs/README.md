@@ -8,7 +8,7 @@ Available documents:
 
 * [Edition 2.6 of the Product Specification for Inland ENCs](ienc-product-specification-2.6/)
 * [Status of Codes for Producers and Waterways](https://ienc.gitbook.io/ienc-main/status-of-codes-for-producers-and-waterways) (only for Europe and Russia)
-* Edition 2.6 of the Presentation Library (to be developed)
+* Edition 2.6 of the Presentation Library (only for Europe and Russia)
 * [Edition 2.6 of the Product Specification for bathymetric Inland ENCs](product-specification-for-bathymetric-inland-encs-2.6.md)
 
 
