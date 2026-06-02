@@ -35,3 +35,12 @@ Inland ENC Feature Catalogue Ed 2.6 corr 2 from 2nd February 2026 (PDF)
 {% file src="../../.gitbook/assets/IENC_FC_26_corr_2.xml" %}
 Inland ENC Feature Catalogue Ed 2.6 corr2 from 13th November 2025 (XML)
 {% endfile %}
+
+{% file src="../../.gitbook/assets/IENC_FC_26_corr3 (1).pdf" %}
+Inland ENC Feature Ctalogue Ed 2.6 corr3 from 2026 05 29 (PDF)
+{% endfile %}
+
+{% file src="../../.gitbook/assets/IENC_FC_26_corr_3.xml" %}
+Inland ENC Feature Ctalogue Ed 2.6 corr3 from 2026 05 29 (XML)
+{% endfile %}
+
